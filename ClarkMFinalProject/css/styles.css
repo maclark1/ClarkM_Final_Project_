@@ -1,0 +1,135 @@
+h1 {
+    color: #A4DADD;
+    font-family: 'Itim';
+    font-size: 32px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+.nav-bar ul{
+    font-family: 'Istok Web';
+    list-style-type:none;
+    background: rgb(234, 234, 234);
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 0%;
+    padding-right: 0%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-bar a{
+    color: #bab1ee;
+    text-decoration: none;
+}
+.nav-bar a:hover{
+    color: #8573ec;
+}
+.nav-bar a:focus{
+    color: #f88be8;
+}
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2 {
+    color: #000000;
+    font-family: 'Zilla Slab', sans-serif;
+    font-size: 125%;
+    margin: 5%;
+}
+.main_img {
+    height: 75%;
+    width: 75%;
+}
+.seller_info_image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.seller_img {
+    height:75%;
+    width:75%;
+    padding-top: 6%;
+}
+.seller_info {
+    display: flex;
+    flex-direction: column;
+}
+.seller_info {
+    font-family: 'Zilla Slab', sans-serif;
+    font-size: 14px;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.row_1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.crochet_axolotl {
+    height:80%;
+    width:40%;
+    margin:2%;
+}
+.crochet_elephant {
+    height:80%;
+    width:40%;
+    margin:2%;
+}
+.row_2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.crochet_ghost {
+    height:80%;
+    width:40%;
+    margin:2%;
+}
+.crochet_kitten {
+    height:80%;
+    width:40%;
+    margin:2%;
+}
+.row_3 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.crochet_moo_deng {
+    height:80%;
+    width:40%;
+    margin:2%;
+}
+.crochet_star {
+    height:80%;
+    width:40%;
+    margin:2%;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+.name {
+    color:#A4DADD;
+    font-family: 'Itim';
+    height: 45%;
+    width:45%;
+    margin-left: 2%;
+}
+.contact_info {
+    font-family: 'Istok Web';
+    list-style: none;
+    color:#bab1ee;
+    margin-right: 1%;
+}
+footer{
+    background-color:rgb(234, 234, 234);
+    font-size: 60%;
+    height: 100%;
+    margin-top:100%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
